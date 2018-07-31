@@ -1,5 +1,5 @@
 
-description = 'Search an article in Wikipedia from github'
+description = 'Hello GIT'
 
 pages = []
 
